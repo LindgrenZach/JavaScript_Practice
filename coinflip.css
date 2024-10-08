@@ -1,0 +1,46 @@
+
+
+.title {
+  font-size: 48px;
+  font-family: Arial;
+  color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+  border: 1px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.choice {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  width: 350px 350px;
+
+}
+.heads{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+  color: purple;
+  font-size: 60px;
+  height: 140px;
+  width: 180px;
+  background-color: blue;
+  border: 0;
+  border-radius: 70px;
+  padding: 40px 150px;
+}
+
+.tails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  height: 140px;
+  width: 180px;
+  background-color: brown;
+}

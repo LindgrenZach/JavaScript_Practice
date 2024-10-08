@@ -1,0 +1,15 @@
+/*
+these are css styles
+*/
+button {
+  color: white;
+  font-family: Arial;
+  }
+
+
+.hello-button {
+  background-color: red;
+  width: 40px;
+  border-radius: 20px;
+
+}
